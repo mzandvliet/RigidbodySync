@@ -1,5 +1,5 @@
 # RigidbodySync
-A prototype for Volo Airsport multiplayer networking code, done in 2016 with Frank Versnel.
+A prototype for Volo Airsport multiplayer networking code, done in 2016 with Frank Versnel (@fversnel).
 
 It's built on top of Lidgren, though we tried UNET low level transport before that. Some features:
 
